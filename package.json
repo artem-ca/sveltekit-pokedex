@@ -1,0 +1,17 @@
+{
+  "name": "~TODO~",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "next",
+    "autoprefixer": "^10.3.2",
+    "postcss": "^8.3.6",
+    "svelte": "^3.34.0",
+    "tailwindcss": "^2.2.7"
+  },
+  "type": "module"
+}
